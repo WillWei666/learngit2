@@ -1,2 +1,2 @@
 hello git
-git is  not very good
+git is  very good
